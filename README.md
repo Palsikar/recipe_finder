@@ -8,7 +8,7 @@ The **Recipe Finder** is a web application that helps users **search for recipes
 - 📜 **Ingredient List & Instructions**: Displays a list of required ingredients and step-by-step cooking instructions.  
 - 🖼️ **Recipe Images**: Shows a visual representation of each dish.  
 - 📡 **API Integration**: Fetches recipes dynamically using an external API.  
-- Demo : 
+- Demo : https://palsikar.github.io/recipe_finder
 ## 🛠 Technologies Used  
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Flask (Python)  
